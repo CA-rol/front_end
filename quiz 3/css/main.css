@@ -1,0 +1,97 @@
+body{
+	background-color: #f5f5f5;
+	
+
+}
+header{
+	text-align: center;
+	color:white;
+	font-family: Arial;
+	font-size:bold;
+	background-color:black;
+	padding:15px;
+	margin: 0 auto;
+	
+	
+}
+#nav {
+    background-color:#eeeeee;
+    padding:15px;
+    text-align: center;
+
+    
+}
+.focus{
+	text-decoration: none;
+	color:grey;
+	margin-right: 15px;
+   
+
+}
+.focus:hover{
+   color:white;
+}
+.bp{
+	text-decoration: none;
+	color:grey;
+	margin-right: 15px;
+
+}
+.bp:hover{
+	color:white;
+}
+.pen{
+	text-decoration: none;
+	color:grey;
+	margin-right: 15px;
+    
+  
+}
+.pen:hover{
+	color:white;
+}
+a.active{
+	color:black;
+	text-decoration: underline;
+
+}
+.mon1{
+	background-repeat: no-repeat;
+	background-size: 100%;
+	width: 100%;
+	height: 900px;
+	padding-top: 10px;
+	background-image: url(../img/building.jpg);
+}
+p{
+	color:#fff;
+	font-family: 'Anton'!important;
+	text-align: center;
+	margin-top: 200px;
+	font-size: bold;
+	font-weight: thick;
+	font-style:normal;
+	font-size: 40px;
+}
+h2{
+	color: #fff;
+	text-indent: 28%;
+	margin-top: -25px;
+	text-decoration: none;
+}
+footer{
+	text-align: center;
+	color:white;
+	font-family: Arial;
+	font-size:bold;
+	background-color:#808080;
+	padding:25px;
+	margin: 0 auto;
+	font-style: italic;
+	margin-top: -295px;
+	 
+}
+
+
+
+

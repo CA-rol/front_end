@@ -1,0 +1,100 @@
+.panel8{
+    background-color: grey;
+    margin:0 auto;
+    max-width:90%;
+    border-style: dashed;
+    border-color:white;
+    border-width:3px;
+    padding:10px;
+    overflow: auto;
+    padding: 20px;
+}
+    
+.panel1{
+    margin-left:15px;
+    border-style:hidden;
+    float:left;
+    background-color:white;
+    width:30%;
+    height:200px;
+}
+.panel2{
+    margin-left:10px;
+    border-style:hidden;
+    float:left;
+    background-color:blue;
+    width:30%;
+    height:200px; 
+}
+.panel3{
+    margin-left:10px;
+    border-style:hidden;
+    float:left;
+    background-color:green;
+    width:30%;
+    height:200px; 
+}
+#button{
+    background-color: maroon;
+    border-style:hidden;
+    width:92%;
+    height:200px;
+    float:below;
+    margin-left:15px;
+    float:left;
+    margin-top:10px;
+}
+.panel4{
+    background-color:pink;
+    border-style:hidden;
+    width:45%;
+    height:200px;
+    margin-left:15px;
+    float:left;
+
+}
+.panel5{
+    background-color:purple;
+    border-style:hidden;
+    width:46%;
+    height:200px;
+    margin-left:10px;
+    float:left;
+}
+.panel6{
+    background-color: orange;
+    border-style:hidden;
+    width:92%;
+    height:200px;
+    margin-left:15px;
+    float:left;
+    margin-top:10px;
+}
+.panel7{
+    background-color:red;
+    border-style:hidden;
+    width:92%;
+    height:200px;
+    margin-left:15px;
+    float:left;
+    margin-top:10px;
+    overflow: auto;
+
+}
+    
+.mueni{
+    margin-top:10px;
+    margin-bottom:10px;
+}
+
+@media only screen and (max-width: 500px){
+    body{
+        background-color: #FF00FF;
+    }
+    .panel8{
+        background-color: #0000ff;
+    }
+}
+
+
+

@@ -1,0 +1,54 @@
+body{
+	background-color:black;
+	width:70%;
+	border-style:solid;
+	margin:0 auto;
+
+}
+.carol{
+	float:left;
+	margin-right:15px;
+}
+.cup{
+	float:right;
+	margin-left:15px; 
+}
+.cow{
+	margin:0 auto;
+	border-style:dotted;
+	font-style:italic;
+	background-color:red;
+}
+.anne{
+	margin:0 auto;
+	border-style:dotted;
+	font-style:italic;
+	background-color:purple;
+
+}
+.book{
+	margin:0 auto;
+	border-style:dotted;
+	font-style:italic;
+	background-color:blue;
+	font-color:white;
+}
+.git{
+	float:left;
+
+}
+.code{
+	float:left;
+}
+.caro{
+	float:left;
+}
+.fish{
+	float:left;
+}
+.milo{
+	float:left;
+}
+a.active{
+background-color: blue;
+}

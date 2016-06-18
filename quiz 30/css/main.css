@@ -1,0 +1,113 @@
+body{
+    background-color:#f2f2f2; 
+}
+header{
+    background-color: purple;
+    width: 800px;
+    padding: 10px;
+    color: white;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    text-indent: 40px;
+
+}
+.panel{
+    float: right;
+    margin-right: 60%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.panel1{
+    float: right;
+    margin-right: 45%;
+     font-family: Arial, Helvetica, sans-serif;
+     margin-top: -20px;
+}
+.panel2{
+    float: right;
+    margin-right: 35%;
+    font-family: Arial, Helvetica, sans-serif;
+     margin-top: -20px;
+}
+.panel3{
+    float: right;
+    margin-right: 20%; 
+    font-family: Arial, Helvetica, sans-serif;
+     margin-top: -20px;
+ }
+ .panel4{
+    background-color: #000;
+    width: 820px;
+    height: 200px;
+ }
+ .panel5{
+    font-family: Arial, Helvetica, sans-serif;
+    color: #fff;
+    text-align: center;
+    font-weight: bold;
+    font-size: 2em;
+    position: relative;
+    top: 45px;
+
+ }
+ .panel6{
+    color:#fff;
+    font-family: Arial, Helvetica, sans-serif;
+    position: relative;
+    top:46px;
+    text-indent: 100px;
+ }
+ .panel7{
+    color:#fff;
+    font-family: Arial, Helvetica, sans-serif;
+    position: relative;
+    top:46px;
+    text-indent: 290px;
+ 
+ }
+ button{
+    position: relative;
+    top: 50px;
+    padding: 5px 15px;
+    background-color: purple;
+    color:white;
+    margin-left:350px;
+    border-style: hidden;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold; 
+}
+button:hover{
+    color:#000;
+    background-color: green;
+}
+.panel8{
+    background-color: #f5f5f5;
+    width:820px;
+    height: 350px;
+    margin-top: -15px; 
+}
+h2{
+    text-align: center;
+    color:purple;
+    position: relative;
+    top:15px;
+    margin-top: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+p{
+ font-family: Arial, Helvetica, sans-serif;
+ color:rgba(0,0,0,0.8);
+ text-indent: 184px;
+ text-align: center;
+}
+.panel9{
+    text-indent: 
+}
+
+
+
+
+
+
+ 
+
+

@@ -1,0 +1,119 @@
+body{
+	background:white;
+	border-style:dashed;
+	padding:60px;
+	border-width:thick;
+	border-color:silver;
+	outline-style:double;
+	outline-color:gold;
+	outline-width:thick;
+}
+h1{
+	color:black;
+	text-align:center;
+	background-color:blue;
+	border-style:dotted;
+	border-width:medium;
+	border-color:purple;
+	text-decoration:underline;
+	font-size:300%;
+}
+li{
+	color:yellow;
+	margin-left: 20pt;
+	font-size:140%;
+	border-style:ridge;
+	border-width:5px;
+	border-color:gold;
+	list-style:circle;
+	list-style-position:inside;
+}
+h3{
+	color:black;
+	background-color:blue;
+	text-decoration:underline;
+	text-align:left;
+	font-size:300%;
+}
+q{
+	color:purple;
+	font-size:140%;
+}
+p{
+	color:black;
+	font-size:200%;
+	border-width: 10px;
+	border-color:green;
+	font-style:oblique;
+	
+}
+b{
+	color:red;
+}
+form{
+	font-size:140%;
+	font-weight:bold;
+}
+div{
+	height:auto;
+	width: 800px;
+	padding: 20px;
+	margin: 0 auto;
+	border:red;
+	border-style:solid;
+	background-color:olive;
+	background-image:url(../img/blueguitor.jpg);
+
+}
+address{
+	font-size:300%;
+	border-style:dotted;
+	border:olive;
+	margin: 0 auto;
+}
+h2{
+	text-decoration:underline;
+	background-color:lime;
+	text-align:center;
+	font-size:300%;
+}
+ol{
+	margin:left;
+	font-size:140%;
+	border-style:solid;
+	border-width:5px;
+	border-color:silver;
+	list-style:upper-roman;
+	list-style-position:inside;
+
+}
+form{
+	border-color:pink;
+	border-style:solid;
+	box-shadow:left;
+	margin: o auto;
+	height: 0 auto;
+	font-family:courier;
+	font-family:verdana;
+	
+}
+p{
+	text-align:justify;
+	text-indent: 50px;
+
+}
+input{
+	width:75%;
+	padding: 24px 40px;
+	margin:16px; 0;
+}
+#panel{
+	background-image:url(../img/guitor.jpg);s
+}
+
+
+
+
+
+
+

@@ -1,0 +1,47 @@
+table ,th ,td{
+	width:70%;
+	margin:0 auto;
+	
+}
+
+th{
+	border: 1px solid black;
+	height:50px;
+	text-align: left;
+    background-color: black;
+    color: white;
+    font-size:30px;
+    font-weight:thick;
+}
+
+td{
+	border: 1px solid black;
+    height: 50px;
+    vertical-align: bottom;
+    color:black;
+    font-size:50px;
+}
+
+table{
+	border-style:solid ;
+	margin-top:40px;
+	font-family:Arial; 
+	border-collapse: collapse;
+	
+}
+th, td {
+    padding: 15px;
+    text-align: left;
+}
+th, td {
+    border-bottom: 1px solid #ddd;
+    border-color: black;
+}
+
+tr:nth-child(odd) {background-color: lightgrey};
+tr{
+	border-style: solid;
+	border-color: black;
+}
+
+

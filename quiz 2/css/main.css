@@ -1,0 +1,45 @@
+#mueni{
+	background-image:url(../img/beach.jpg);
+	font-family:italic;
+}
+	 
+} 
+.panel1{
+	background-repeat: no-repeat;
+	background-position:left;
+	border-style:dashed;
+	border-color:black;
+	font-style:italic;
+	background-color:silver;
+
+
+}
+	
+body{
+	background-color: white;
+	width:60%;
+	border-style:dotted;
+	padding:60px;
+	margin:0 auto;
+
+}
+.cow{
+	font-family:italic;
+	background-color:blue;
+}
+.rock{
+	float:left;
+}
+.log{
+	float:left;
+	margin:left 2%px;
+}
+.math{
+	float:left;
+	margin:left 15px;
+}
+.sum{
+	float:left;
+	margin:left 15px;
+	
+}
